@@ -9,14 +9,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu800-a&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu800-a" /> </p>
 
 - 🌱 I’m currently learning **Backend Development & MERN Stack (Node.js, Express, MongoDB)**
+
+- 📝 I regularly learning on [Web Development, React & Backend Learning]
+
 - 💬 Ask me about **Frontend Development (React & JavaScript)**
 
-- 📫 How to contact me **dipanshu800a@gmail.com**
+- 📫 How to reach me **dipanshu800a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dipanshu-kumar-96091a292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipanshu-kumar-96091a292/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/its_dipanshu.a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_dipanshu.a/" height="30" width="40" /></a>
+<a href="https://instagram.com/its_dipanshu.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_dipanshu.a" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/dipanshu80069231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/dipanshu80069231" height="30" width="40" /></a>
 </p>
 
