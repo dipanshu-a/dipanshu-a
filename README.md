@@ -9,12 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu800-a&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu800-a" /> </p>
 
 - 🌱 I’m currently learning **Backend Development & MERN Stack (Node.js, Express, MongoDB)**
-
-- 📝 I regularly write articles on [Web Development, React & Backend Learning](Web Development, React & Backend Learning)
-
 - 💬 Ask me about **Frontend Development (React & JavaScript)**
 
-- 📫 How to reach me **dipanshu800a@gmail.com**
+- 📫 How to contact me **dipanshu800a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
